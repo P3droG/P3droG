@@ -1,4 +1,4 @@
-## printf("Hello, World!\n");  👋, I'm Pedro Paiva
+# printf("Hello, World!\n");  👋, I'm Pedro Paiva
 
 **🎓 Computer Science Student**  
 🇧🇷 Brazil
@@ -15,13 +15,13 @@ This GitHub profile is where I document my progress, share projects, and explore
 
 <p align="left">
   <a href="https://github.com/P3droG">
-    <img src="https://img.shields.io/badge/GitHub-PedroPaiva-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&logoSize=amd&link=https%3A%2F%2Fgithub.com%2FP3droG" />
   </a>
   <a href="https://www.instagram.com/p3dro.paiva/">
-    <img src="https://img.shields.io/badge/Instagram-@p3dro.paiva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000&logoSize=amd&link=https%3A%2F%2Fwww.instagram.com%2Fp3dro.paiva%2F" />
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-paiva-de-oliveira-0b0b573a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-PEDRO%20PAIVA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---

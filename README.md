@@ -25,7 +25,9 @@ This GitHub profile is where I document my progress, share projects, and explore
 </a>
 
 ---
-
+<div align="right">
+  <img align="right" height="250" src="https://imgur.com/UOClQlN.png" />
+</div>
 ## 🧠 Currently Learning
 
 -   💻 Programming Fundamentals

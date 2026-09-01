@@ -9,6 +9,7 @@ My main interests include **software development, programming logic, problem sol
 
 This GitHub profile is where I document my progress, share projects, and explore new technologies.
 
+My lattes: http://lattes.cnpq.br/6108935461979035/
 ---
 
 ## 🌐 Where to find me
@@ -22,7 +23,6 @@ This GitHub profile is where I document my progress, share projects, and explore
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-paiva-de-oliveira-0b0b573a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="http://lattes.cnpq.br/6108935461979035/">
 </a>
 
 

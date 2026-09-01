@@ -23,6 +23,7 @@ This GitHub profile is where I document my progress, share projects, and explore
   <a href="https://www.linkedin.com/in/pedro-henrique-paiva-de-oliveira-0b0b573a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="http://lattes.cnpq.br/6108935461979035/">
 
 ---
 <div align="right">
